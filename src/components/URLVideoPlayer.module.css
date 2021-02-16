@@ -1,5 +1,11 @@
-.App {
+.container {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 10px;
+}
+
+form,
+.player {
+  margin: 10px;
 }
